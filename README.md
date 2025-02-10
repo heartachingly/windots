@@ -11,6 +11,8 @@
 - **Firefox** • [ShyFox](https://github.com/Naezr/ShyFox)
 - **Backdrop** • [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone/releases)
 - **Widgets** • [Rainmeter](https://www.rainmeter.net/)
+- **Discord ** • [system24](https://github.com/refact0r/system24)
+- **Spotify** • [text](https://github.com/spicetify/spicetify-themes/tree/master/text)
 
 <div align='center'>
     <div align="center">
