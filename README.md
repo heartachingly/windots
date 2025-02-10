@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-# :3
+:3
 </div>
 
 - **File Manager** • [Tokyo Night](https://www.deviantart.com/niivu/art/Tokyo-Night-for-Windows-11-970381220)
