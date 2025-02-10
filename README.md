@@ -6,9 +6,9 @@
 # :3
 </div>
 
-- **File Manager** • [Tokyo Night]([https://github.com/hyprwm/Hyprland](https://www.deviantart.com/niivu/art/Tokyo-Night-for-Windows-11-970381220))
+- **File Manager** • [Tokyo Night](https://github.com/hyprwm/Hyprland](https://www.deviantart.com/niivu/art/Tokyo-Night-for-Windows-11-970381220)
 - **Taskbar** • [Start All Back](https://www.startallback.com/)
-- **Firefox** • [ShyFox]([https://github.com/hyprwm/Hyprland](https://github.com/Naezr/ShyFox))
+- **Firefox** • [ShyFox](https://github.com/hyprwm/Hyprland](https://github.com/Naezr/ShyFox)
 - **Backdrop** • [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone/releases)
 <div align='center'>
     <div align="center">
