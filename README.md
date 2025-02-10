@@ -10,6 +10,8 @@
 - **Taskbar** • [Start All Back](https://www.startallback.com/)
 - **Firefox** • [ShyFox](https://github.com/Naezr/ShyFox)
 - **Backdrop** • [MicaForEveryone](https://github.com/MicaForEveryone/MicaForEveryone/releases)
+- **Widgets** • [Rainmeter](https://www.rainmeter.net/)
+
 <div align='center'>
     <div align="center">
     <h2>• Screenshots •</h2>
